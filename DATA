@@ -1,0 +1,5 @@
+PERCORSO_PAN = C:\Condivisa\Pan
+TRG = 200
+CUTLENGTH = 5000
+OFFSET: OX = 5 OY = 5
+FILTRO: dX = 0,5 dY = 0,5 dZ = 0,5 dARC = 4 dANG = 10
